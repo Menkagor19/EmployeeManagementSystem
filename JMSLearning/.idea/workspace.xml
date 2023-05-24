@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e89fa73b-edcc-475d-bae2-d6c2db328ae1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/ArrayBiggestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/CountDistinctElementsInEveryKSizeWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/DivideTwoInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/FindDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/FindPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/FirstMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/FirstNonRepeatingCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/FrequencyOfEachElementInASortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/IsomorphicStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/JavaStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/LFUCacheImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/LRUCacheImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/LargestWordAvailable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/LetterCombinationOfPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/LongestSubstringWithoutRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/MaximumNumberOfVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/MaximumProductSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/MaximumSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/MedianOfTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/MinSubarrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/MultiplyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/NewLongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/PalindromeUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/RearrangeAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/RomanNumberToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/SearchInsertionPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/SecondSmallestNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/Stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/StringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/SubsetTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/ThreeSumClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/circleLattice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/min_subarray_length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructureImplementation/regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QBUA6FHyzgkSjUOkeqp4dkxv3Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e89fa73b-edcc-475d-bae2-d6c2db328ae1" name="Changes" comment="" />
+      <created>1684826328560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684826328560</updated>
+    </task>
+    <servers />
+  </component>
+</project>
